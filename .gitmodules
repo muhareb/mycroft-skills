@@ -49,9 +49,6 @@
 [submodule "mycroft-spotify"]
 	path = spotify-skill
 	url = https://github.com/forslund/spotify-skill
-[submodule "mycroft-stop"]
-	path = skill-stop
-	url = https://github.com/mycroftai/skill-stop.git
 [submodule "mycroft-support-helper"]
 	path = skill-support
 	url = https://github.com/mycroftai/skill-support.git
@@ -232,3 +229,6 @@
 [submodule "skill-npr-news"]
 	path = skill-npr-news
 	url = https://github.com/muhareb/skill-npr-news.git
+[submodule "skill-stop"]
+	path = skill-stop
+	url = https://github.com/muhareb/skill-stop.git
