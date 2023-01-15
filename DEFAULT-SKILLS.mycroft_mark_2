@@ -7,7 +7,7 @@ camera
 mycroft-pairing
 mycroft-configuration
 mycroft-installer
-mycroft-stop
+skill-stop
 mycroft-naptime
 mycroft-playback-control
 mycroft-speak
