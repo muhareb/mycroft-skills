@@ -31,6 +31,6 @@ mycroft-singing
 mycroft-spelling
 mycroft-support-helper
 mycroft-timer
-mycroft-weather
+skill-weather
 skill-wiki
 mycroft-version-checker
