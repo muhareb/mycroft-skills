@@ -55,9 +55,6 @@
 [submodule "mycroft-timer"]
 	path = mycroft-timer
 	url = https://github.com/mycroftai/mycroft-timer.git
-[submodule "mycroft-weather"]
-	path = skill-weather
-	url = https://github.com/mycroftai/skill-weather.git
 [submodule "mycroft-version-checker"]
 	path = skill-version-checker
 	url = https://github.com/mycroftai/skill-version-checker.git
@@ -232,3 +229,6 @@
 [submodule "skill-stop"]
 	path = skill-stop
 	url = https://github.com/muhareb/skill-stop.git
+[submodule "skill-weather"]
+	path = skill-weather
+	url = https://github.com/muhareb/skill-weather.git
