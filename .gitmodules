@@ -208,9 +208,6 @@
 [submodule "fallback-wolfram-alpha"]
 	path = fallback-wolfram-alpha
 	url = https://github.com/muhareb/fallback-wolfram-alpha.git
-[submodule "homescreen"]
-	path = homescreen
-	url = https://github.com/muhareb/skill-homescreen.git
 [submodule "fallback-duckduckgo"]
 	path = fallback-duckduckgo
 	url = https://github.com/muhareb/fallback-duckduckgo.git
@@ -220,9 +217,6 @@
 [submodule "skill-wiki"]
 	path = skill-wiki
 	url = https://github.com/muhareb/skill-wiki.git
-[submodule "skill-date-time"]
-	path = skill-date-time
-	url = https://github.com/muhareb/skill-date-time.git
 [submodule "skill-npr-news"]
 	path = skill-npr-news
 	url = https://github.com/muhareb/skill-npr-news.git
@@ -232,3 +226,9 @@
 [submodule "skill-weather"]
 	path = skill-weather
 	url = https://github.com/muhareb/skill-weather.git
+[submodule "homescreen"]
+	path = homescreen
+	url = https://github.com/muhareb/skill-homescreen.git
+[submodule "skill-date-time"]
+	path = skill-date-time
+	url = https://github.com/muhareb/skill-date-time.git
