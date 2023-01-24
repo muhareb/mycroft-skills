@@ -10,9 +10,6 @@
 [submodule "mycroft-installer"]
 	path = skill-installer
 	url = https://github.com/mycroftai/skill-installer.git
-[submodule "mycroft-ip"]
-	path = skill-ip
-	url = https://github.com/mycroftai/skill-ip.git
 [submodule "mycroft-joke"]
 	path = skill-joke
 	url = https://github.com/mycroftai/skill-joke.git
@@ -232,3 +229,6 @@
 [submodule "skill-date-time"]
 	path = skill-date-time
 	url = https://github.com/muhareb/skill-date-time.git
+[submodule "mycroft-ip"]
+	path = mycroft-ip
+	url = https://github.com/muhareb/skill-ip.git
