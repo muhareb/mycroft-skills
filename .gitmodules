@@ -22,9 +22,6 @@
 [submodule "mycroft-naptime"]
 	path = skill-naptime
 	url = https://github.com/mycroftai/skill-naptime.git
-[submodule "mycroft-pairing"]
-	path = skill-pairing
-	url = https://github.com/mycroftai/skill-pairing.git
 [submodule "mycroft-personal"]
 	path = skill-personal
 	url = https://github.com/mycroftai/skill-personal.git
@@ -232,3 +229,6 @@
 [submodule "mycroft-ip"]
 	path = mycroft-ip
 	url = https://github.com/muhareb/skill-ip.git
+[submodule "mycroft-pairing"]
+	path = mycroft-pairing
+	url = https://github.com/muhareb/skill-pairing.git
