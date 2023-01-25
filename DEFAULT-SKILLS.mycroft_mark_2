@@ -34,3 +34,5 @@ mycroft-timer
 skill-weather
 skill-wiki
 mycroft-version-checker
+
+skill-quran
