@@ -217,9 +217,6 @@
 [submodule "skill-stop"]
 	path = skill-stop
 	url = https://github.com/muhareb/skill-stop.git
-[submodule "skill-weather"]
-	path = skill-weather
-	url = https://github.com/muhareb/skill-weather.git
 [submodule "homescreen"]
 	path = homescreen
 	url = https://github.com/muhareb/skill-homescreen.git
@@ -232,3 +229,9 @@
 [submodule "mycroft-pairing"]
 	path = mycroft-pairing
 	url = https://github.com/muhareb/skill-pairing.git
+[submodule "skill-weather"]
+	path = skill-weather
+	url = https://github.com/muhareb/skill-weather.git
+[submodule "skill-quran"]
+	path = skill-quran
+	url = https://github.com/muhareb/skill-quran.git
