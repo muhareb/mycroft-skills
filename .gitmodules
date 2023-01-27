@@ -202,9 +202,6 @@
 [submodule "fallback-duckduckgo"]
 	path = fallback-duckduckgo
 	url = https://github.com/muhareb/fallback-duckduckgo.git
-[submodule "skill-hello-world"]
-	path = skill-hello-world
-	url = https://github.com/muhareb/skill-hello-world.git
 [submodule "skill-wiki"]
 	path = skill-wiki
 	url = https://github.com/muhareb/skill-wiki.git
@@ -235,3 +232,6 @@
 [submodule "skill-weather"]
 	path = skill-weather
 	url = https://github.com/muhareb/skill-weather.git
+[submodule "skill-hello-world"]
+	path = skill-hello-world
+	url = https://github.com/muhareb/skill-hello-world.git
